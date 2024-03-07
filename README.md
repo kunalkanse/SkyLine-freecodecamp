@@ -1,7 +1,9 @@
 # SkyLine-freecodecamp
 
 Check it out 👉 https://kunalkanse.github.io/SkyLine-freecodecamp/
-change the screen size to feel...
+
+    change the screen size to feel.
+    Above 1000px there will be DAY & Below 1000px will be NIGHT 
 
 This Project is created with the reference of FreeCodeCamp website.
 Used HTML And CSS for development. 
